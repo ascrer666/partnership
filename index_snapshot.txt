@@ -1,0 +1,581 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Partnership Program - International Health Tourism</title>
+    <meta name="description" content="Join our trusted partnership program for international health tourism. Earn competitive commissions by connecting patients from Europe and America with premium medical services in Turkey.">
+    <link rel="stylesheet" href="styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav">
+            <div class="nav-container">
+                <div class="logo">
+                    <img src="logo/Quartz_Logo (1).png" alt="Quartz Clinique Logo" class="logo-img">
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="#home" class="nav-link">Home</a></li>
+                    <li><a href="#who-can-join" class="nav-link">Who Can Join</a></li>
+                    <li><a href="#benefits" class="nav-link">Benefits</a></li>
+                    <li><a href="#how-it-works" class="nav-link">How It Works</a></li>
+                    <li><a href="#contact" class="nav-link">Join Now</a></li>
+                    <li><a href="https://wa.me/905448439717?text=Hello,%20I%20would%20like%20to%20learn%20about%20the%20partnership%20program." target="_blank" class="whatsapp-btn">
+                        <div class="whatsapp-icon"></div>
+                        WhatsApp
+                    </a></li
+                    <!-- Mobile-only social links under WhatsApp -->
+                    <li class="mobile-social">
+                        <div class="mobile-social__links">
+                            <a href="https://www.instagram.com/quartzclinique/" target="_blank" rel="noopener noreferrer" class="social-btn social-btn--ig">
+                                <span class="social-icon"></span>
+                                <span class="social-label">Instagram</span>
+                            </a>
+                            <a href="https://www.youtube.com/@quartzclinique" target="_blank" rel="noopener noreferrer" class="social-btn social-btn--yt">
+                                <span class="social-icon"></span>
+                                <span class="social-label">YouTube</span>
+                            </a>
+                            <a href="https://www.quartzclinique.com" target="_blank" rel="noopener noreferrer" class="social-btn social-btn--web">
+                                <span class="social-icon"></span>
+                                <span class="social-label">Website</span>
+                            </a>
+                        </div>
+                    </li>>
+                </ul>
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <!-- Video Background -->
+        <video autoplay muted loop playsinline class="hero-video-bg">
+            <source src="img/sldier-partnership.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <div class="hero-overlay"></div>
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="hero-title">
+                    <span class="highlight">Partner with Us,</span><br>
+                    Earn More!
+                </h1>
+                <p class="hero-subtitle">
+                    Join a trusted and growing global brand in international health tourism. 
+                    Build long-term income through a rewarding partnership program connecting patients 
+                    from Europe and America with premium medical services in Turkey.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#contact" class="btn btn-primary">Join Partnership</a>
+                    <a href="#benefits" class="btn btn-secondary">Learn Benefits</a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="partnership-stats">
+    <div class="stat-card">
+        <div class="stat-number">80+</div>
+        <div class="stat-label">Countries Served</div>
+    </div>
+    <div class="stat-card">
+        <div class="stat-number">10K+</div>
+        <div class="stat-label">Happy Patients</div>
+    </div>
+    <div class="stat-card">
+        <div class="stat-number">5&#9733;</div>
+        <div class="stat-label">Trustpilot Rating</div>
+    </div>
+</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Problem Solution Section -->
+    <!-- Who Can Join Section -->
+    <section id="who-can-join" class="who-can-join">
+        <div class="container">
+            <div class="join-content">
+                <div class="join-image">
+                    <img src="img/clinic-interior.jpg" alt="Quartz Clinique Medical Facility">
+                </div>
+                <div class="join-text">
+                    <h2 class="section-title-left">Who Can Join?</h2>
+                    <div class="join-list">
+                        <div class="join-item">
+                            âœ“ Agencies, Influencers, Healthcare Professionals
+                        </div>
+                        <div class="join-item">
+                            âœ“ Travel Agents & Medical Tourism Facilitators
+                        </div>
+                        <div class="join-item">
+                            âœ“ Business Networks & Community Leaders
+                        </div>
+                        <div class="join-item">
+                            âœ“ Social Media Influencers with Healthcare Focus
+                        </div>
+                    </div>
+                    
+                    <h3 class="clinic-info-title">Who We Are</h3>
+                    <p>
+                        <strong>Quartz Clinique</strong> is a healthcare facility located in the heart of Istanbul, 
+                        providing aesthetic and medical services at international standards. Led by 
+                        <strong>Dr. Leyla Arvas</strong>, our expert doctors offer innovative and personalized 
+                        solutions in aesthetic surgery, medical aesthetics, and skin rejuvenation.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Our Clinic & Treatments Section -->
+    <section class="clinic-treatments">
+        <div class="container">
+            <h2 class="section-title">Why Quartz Clinique?</h2>
+            
+            <!-- Clinic Features -->
+            <div class="clinic-features">
+                <div class="clinic-feature">
+                    <span class="feature-icon">âœ…</span>
+                    <span>We provide services with the latest FDA-approved technologies.</span>
+                </div>
+                <div class="clinic-feature">
+                    <span class="feature-icon">âœ…</span>
+                    <span>Our experienced and expert medical team delivers reliable results.</span>
+                </div>
+                <div class="clinic-feature">
+                    <span class="feature-icon">âœ…</span>
+                    <span>Our international patient coordination team offers VIP services to patients from all over the world.</span>
+                </div>
+                <div class="clinic-feature">
+                    <span class="feature-icon">âœ…</span>
+                    <span>We have a wide network of partnerships in aesthetic tourism and are open to new collaborations.</span>
+                </div>
+            </div>
+            
+            <!-- Clinic Gallery -->
+            <div class="clinic-gallery">
+                <div class="clinic-image">
+                    <img src="klinik/klinik2.png" alt="Quartz Clinique Operating Room">
+                </div>
+                <div class="clinic-image">
+                    <img src="klinik/klinik3.png" alt="Quartz Clinique Consultation Room">
+                </div>
+                <div class="clinic-image">
+                    <img src="klinik/klinik4.png" alt="Quartz Clinique Recovery Room">
+                </div>
+            </div>
+            
+            <!-- Certification Section -->
+            <div class="certification-section">
+                <div class="certification-content">
+                    <div class="certification-image">
+                        <img src="img/international-health-tourism-auth-cert.jpeg" alt="International Health Tourism Authorization Certificate">
+                    </div>
+                    <div class="certification-text">
+                        <p>Our clinic is accredited by the Ministry of Health of the Republic of Türkiye with the International Health Tourism Authorization Certificate. This certificate is the official proof that we provide safe, legal, and world-class healthcare services to both our national and international patients.</p>
+                        <p class="virtual-tour-note">We offer collaboration opportunities for agencies, influencers, and industry professionals operating in the field of health tourism. By referring patients to us, you can establish a profitable partnership and build long-term business relationships under the assurance of our strong brand.</p>
+<a href="#" class="virtual-tour-btn" onclick="openVirtualTour()">
+    <span class="tour-icon"></span>
+    Take a 360° Virtual Tour
+</a>
+                    </div>
+                </div>
+                <div class="certification-badges">
+                    <img src="img/certifications-badge-HQrDjiNV.png" alt="Health Tourism Certifications" class="badges-image">
+                </div>
+            </div>
+            
+            <!-- Treatments Section -->
+            <div class="treatments-section">
+                <h3 class="treatments-title">Medical Treatments We Offer</h3>
+                <div class="treatments-grid">
+                    <div class="treatment-item">
+                        <span>Breast Augmentation Surgery</span>
+                    </div>
+                    <div class="treatment-item">
+                        <span>Liposuction Surgery</span>
+                    </div>
+                    <div class="treatment-item">
+                        <span>Facial Fat Removal (Buccal Fat Removal - V-Line Aesthetics)</span>
+                    </div>
+                    <div class="treatment-item">
+                        <span>Tummy Tuck (Abdominoplasty) & Breast Lift Combination</span>
+                    </div>
+                    <div class="treatment-item">
+                        <span>Post-Weight Loss Tummy Tuck</span>
+                    </div>
+                    <div class="treatment-item">
+                        <span>Breast Lift Surgery after Weight Loss</span>
+                    </div>
+                    <div class="treatment-item">
+                        <span>Breast Reduction Surgery</span>
+                    </div>
+                    <div class="treatment-item">
+                        <span>Deep Plane Facelift Surgery</span>
+                    </div>
+                    <div class="treatment-item">
+                        <span>Buttock Augmentation & Contouring (BBL - Brazilian Butt Lift)</span>
+                    </div>
+                    <div class="treatment-item">
+                        <span>Non-Shaved Hair Transplant</span>
+                    </div>
+                    <div class="treatment-item">
+                        <span>Lower Abdomen Skin Tightening</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- International Patient Service Package Section -->
+    <section class="patient-services">
+        <div class="container">
+            <h2 class="section-title">International Patient Service Package</h2>
+            <p>At our clinic, we not only provide world-class medical treatments but also ensure a comfortable and stress-free journey for our international patients. With our Ministry of Healthâ€“approved International Health Tourism Authorization Certificate, we are committed to offering safe, legal, and high-quality healthcare services.</p>
+                    
+            <div class="services-content">
+                <div class="services-image">
+                    <img src="img/international.png" alt="International Patient Services" class="services-img">
+                </div>
+                <div class="services-text">
+                <p>For the convenience of our patients, we provide all-inclusive service packages designed to make every step of the process seamless:</p>
+                    <div class="services-list">
+                        <ul class="services-ul">
+                            <li class="service-item">
+                                <span class="service-icon">ğŸ‘¨â€âš•ï¸</span>
+                                <span>Experienced Doctor Consultation & Treatment</span>
+                            </li>
+                            <li class="service-item">
+                                <span class="service-icon">ğŸ¨</span>
+                                <span>Luxury Hotel Accommodation</span>
+                            </li>
+                            <li class="service-item">
+                                <span class="service-icon">ğŸš–</span>
+                                <span>VIP Airport & City Transfers</span>
+                            </li>
+                            <li class="service-item">
+                                <span class="service-icon">ğŸŒ</span>
+                                <span>Professional Interpreter Support</span>
+                            </li>
+                            <li class="service-item">
+                                <span class="service-icon">ğŸ“‹</span>
+                                <span>Personalized Assistance Throughout Your Stay</span>
+                            </li>
+                        </ul>
+                    </div>
+                    
+                    <p class="services-conclusion">With these services, our patients can focus entirely on their treatment and recovery while we take care of every detail.</p>
+                </div>
+            </div>
+        </div>
+    <!-- Key Benefits Section -->
+    <section id="benefits" class="key-benefits">
+        <div class="container">
+            <h2 class="section-title">Key Benefits</h2>
+            <div class="benefits-showcase">
+                <div class="benefit-showcase">
+                    <div class="benefit-visual">
+                        <div class="benefit-number">70%</div>
+                        <div class="benefit-desc">Cost Savings</div>
+                    </div>
+                    <h4>Competitive Commission Rates</h4>
+                    <p>Earn substantial commissions on every successful patient referral with our competitive rate structure.</p>
+                </div>
+                <div class="benefit-showcase">
+                    <div class="benefit-visual">
+                        <div class="benefit-number">80+</div>
+                        <div class="benefit-desc">Countries</div>
+                    </div>
+                    <h4>Global Reach & International Patients</h4>
+                    <p>Access to patients from over 80 countries seeking premium medical and aesthetic treatments.</p>
+                </div>
+                <div class="benefit-showcase">
+                    <div class="benefit-visual">
+                        <div class="benefit-number">5â˜…</div>
+                        <div class="benefit-desc">Rating</div>
+                    </div>
+                    <h4>Trusted Brand in Medical Field</h4>
+                    <p>Partner with a reputable organization with excellent patient satisfaction and industry recognition.</p>
+                </div>
+                <div class="benefit-showcase">
+                    <div class="benefit-visual">
+                        <div class="benefit-number">100%</div>
+                        <div class="benefit-desc">Transparent</div>
+                    </div>
+                    <h4>Transparent Partnership Process</h4>
+                    <p>Clear commission structure, real-time tracking, and transparent reporting through your personal dashboard.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+ <!-- How It Works Section -->
+    <section id="how-it-works" class="how-it-works">
+        <div class="container">
+            <h2 class="section-title">How It Works</h2>
+            <div class="steps-container">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <h3>Sign Up</h3>
+                        <p>Quick and easy registration process. Complete our partnership application form and get approved within 24-48 hours.</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <h3>Promote</h3>
+                        <p>Share your unique partner link and ready-made marketing materials with your network. Use our professional content across all channels.</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <h3>Earn</h3>
+                        <p>Receive commissions for every referral and successful patient treatment. Track your earnings in real-time through our partner dashboard.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Call to Action Section -->
+    <section class="cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2 class="cta-title">Join Now and Start Earning from Day One!</h2>
+                <p class="cta-description">
+                    Don't miss this opportunity to be part of a thriving international health tourism network. 
+                    Start building your income today with our trusted partnership program.
+                </p>
+                <div class="cta-buttons">
+                    <a href="#contact" class="btn btn-primary btn-large">Apply for Partnership</a>
+                    <a href="https://wa.me/905448439717?text=Hello,%20I%20would%20like%20to%20learn%20about%20the%20partnership%20program." class="btn btn-secondary btn-large">Contact via WhatsApp</a>
+                </div>
+                <div class="cta-features">
+                    <div class="cta-feature">
+                        âœ“ No upfront costs
+                    </div>
+                    <div class="cta-feature">
+                        âœ“ 24/7 partner support
+                    </div>
+                    <div class="cta-feature">
+                        âœ“ Immediate access to marketing materials
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Partnership Benefits Section -->
+    <section class="partnership-benefits">
+        <div class="container">
+            <h2 class="section-title">Why Choose Our Partnership Program?</h2>
+            <div class="benefits-grid">
+                <div class="benefit">
+                    <div class="benefit-number">1</div>
+                    <h3>Trusted Global Brand</h3>
+                    <p>Partner with an established medical tourism company serving patients from over 80 countries</p>
+                </div>
+                <div class="benefit">
+                    <div class="benefit-number">2</div>
+                    <h3>Premium Medical Services</h3>
+                    <p>Offer clients access to world-class medical and aesthetic treatments at competitive prices</p>
+                </div>
+                <div class="benefit">
+                    <div class="benefit-number">3</div>
+                    <h3>Full Marketing Support</h3>
+                    <p>Professional marketing materials, training, and ongoing support to ensure your success</p>
+                </div>
+                <div class="benefit">
+                    <div class="benefit-number">4</div>
+                    <h3>Lucrative Commission Structure</h3>
+                    <p>Competitive commission rates with transparent tracking and reliable payment systems</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials/Success Stories Section -->
+    <section class="testimonials">
+        <div class="container">
+            <h2 class="section-title">Success Stories & Partner Testimonials</h2>
+            <div class="testimonials-grid">
+                <div class="testimonial-item">
+                    <div class="testimonial-image">
+                        <!-- Placeholder will be shown via CSS -->
+                    </div>
+                    <div class="testimonial-content">
+                        <div class="testimonial-text">
+                            "Working with this partnership program has been incredibly rewarding. The support team is always available, and the commission structure is very competitive."
+                        </div>
+                        <div class="testimonial-author">
+                            <strong>Maria S.</strong> - European Partner
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-item">
+                    <div class="testimonial-image">
+                        <!-- Placeholder will be shown via CSS -->
+                    </div>
+                    <div class="testimonial-content">
+                        <div class="testimonial-text">
+                            "I've been able to build a substantial secondary income stream by referring my network to their medical tourism services. Highly recommended!"
+                        </div>
+                        <div class="testimonial-author">
+                            <strong>John D.</strong> - American Partner
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-item">
+                    <div class="testimonial-image">
+                        <!-- Placeholder will be shown via CSS -->
+                    </div>
+                    <div class="testimonial-content">
+                        <div class="testimonial-text">
+                            "The marketing materials provided are professional and effective. My clients trust the recommendations, and the treatments exceed expectations."
+                        </div>
+                        <div class="testimonial-author">
+                            <strong>Sophie L.</strong> - French Partner
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h2 class="section-title">Apply for Partnership</h2>
+                    <p class="contact-description">
+                        Ready to start earning through our international health tourism partnership program? 
+                        Fill out the application form and our partnership team will contact you within 24-48 hours.
+                    </p>
+                    <div class="contact-details">
+                        <div class="contact-item">
+                            <div class="contact-icon">ğŸ“</div>
+                            <div>
+                                <h4>Phone</h4>
+                                <p>+90 (544) 968 34 33</p>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">ğŸ“§</div>
+                            <div>
+                                <h4>Email</h4>
+                                <p>partnership@healthtourism.com</p>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">ğŸŒ</div>
+                            <div>
+                                <h4>Coverage Area</h4>
+                                <p>Europe, America & Global</p>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">ğŸ’°</div>
+                            <div>
+                                <h4>Commission</h4>
+                                <p>Competitive rates - Contact for details</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-form-container">
+                    <form id="contactForm" class="contact-form">
+                        <div class="form-group">
+                            <input type="text" name="name" placeholder="Full Name" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="tel" name="phone" placeholder="Phone Number" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" name="email" placeholder="Email Address" required>
+                        </div>
+                        <div class="form-group">
+                            <select name="service" required>
+                                <option value="">Select Your Focus Area</option>
+                                <option value="hair-treatments">Hair Treatments</option>
+                                <option value="aesthetic-surgery">Aesthetic Surgery</option>
+                                <option value="dental-treatments">Dental Treatments</option>
+                                <option value="weight-loss">Weight Loss Surgery</option>
+                                <option value="general-medical">General Medical Tourism</option>
+                                <option value="all-services">All Services</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <select name="location" required>
+                                <option value="">Your Location/Market</option>
+                                <option value="europe-uk">United Kingdom</option>
+                                <option value="europe-germany">Germany</option>
+                                <option value="europe-france">France</option>
+                                <option value="europe-netherlands">Netherlands</option>
+                                <option value="europe-other">Other European Country</option>
+                                <option value="usa">United States</option>
+                                <option value="canada">Canada</option>
+                                <option value="other">Other Country</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <textarea name="message" placeholder="Tell us about your network, experience, or any questions (Optional)" rows="4"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-full">
+                            <span class="btn-text">Submit Partnership Application</span>
+                            <div class="loading-spinner" style="display: none;"></div>
+                        </button>
+                    </form>
+                    <div id="form-message" class="form-message" style="display: none;"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <img src="logo/Quartz_Logo (1).png" alt="Health Tourism Partnership Logo" class="logo-img">
+                </div>
+                <div class="footer-text">
+                    <p>&copy; 2024 International Health Tourism Partnership. All rights reserved.</p>
+                    <p>Premium medical services connecting patients worldwide with trusted Turkish healthcare providers.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Virtual Tour Modal -->
+    <div id="virtualTourModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>360Â° Virtual Tour - Quartz Clinique</h3>
+                <span class="close-modal" onclick="closeVirtualTour()">&times;</span>
+            </div>
+            <div class="modal-body">
+                <iframe id="virtualTourFrame" src="" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
